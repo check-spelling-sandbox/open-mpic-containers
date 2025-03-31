@@ -13,5 +13,6 @@
     "files.associations": {
         "*.yml": "yaml",
         "*.yaml": "yaml"
-    }
+    },
+    "sarif-viewer.connectToGithubCodeScanning": "on"
 }
